@@ -1,0 +1,8 @@
+D:\Projects\C-sharp-learning\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\bin\Debug\SimpleCSharpConsoleApp.exe.config
+D:\Projects\C-sharp-learning\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\bin\Debug\SimpleCSharpConsoleApp.exe
+D:\Projects\C-sharp-learning\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\bin\Debug\SimpleCSharpConsoleApp.pdb
+D:\Projects\C-sharp-learning\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\obj\Debug\SimpleCSharpConsoleApp.csproj.AssemblyReference.cache
+D:\Projects\C-sharp-learning\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\obj\Debug\SimpleCSharpConsoleApp.csproj.SuggestedBindingRedirects.cache
+D:\Projects\C-sharp-learning\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\obj\Debug\SimpleCSharpConsoleApp.csproj.CoreCompileInputs.cache
+D:\Projects\C-sharp-learning\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\obj\Debug\SimpleCSharpConsoleApp.exe
+D:\Projects\C-sharp-learning\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\obj\Debug\SimpleCSharpConsoleApp.pdb

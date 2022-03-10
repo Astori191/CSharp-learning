@@ -1,0 +1,8 @@
+D:\Projects\C-sharp-learning\BasicConsoleIO\BasicConsoleIO\bin\Debug\BasicConsoleIO.exe.config
+D:\Projects\C-sharp-learning\BasicConsoleIO\BasicConsoleIO\bin\Debug\BasicConsoleIO.exe
+D:\Projects\C-sharp-learning\BasicConsoleIO\BasicConsoleIO\bin\Debug\BasicConsoleIO.pdb
+D:\Projects\C-sharp-learning\BasicConsoleIO\BasicConsoleIO\obj\Debug\BasicConsoleIO.csproj.AssemblyReference.cache
+D:\Projects\C-sharp-learning\BasicConsoleIO\BasicConsoleIO\obj\Debug\BasicConsoleIO.csproj.SuggestedBindingRedirects.cache
+D:\Projects\C-sharp-learning\BasicConsoleIO\BasicConsoleIO\obj\Debug\BasicConsoleIO.csproj.CoreCompileInputs.cache
+D:\Projects\C-sharp-learning\BasicConsoleIO\BasicConsoleIO\obj\Debug\BasicConsoleIO.exe
+D:\Projects\C-sharp-learning\BasicConsoleIO\BasicConsoleIO\obj\Debug\BasicConsoleIO.pdb

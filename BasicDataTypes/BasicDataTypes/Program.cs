@@ -22,6 +22,8 @@ namespace BasicDataTypes
             ParseFromStringWithTryParse();
             UseDatesAndTimes();
             UseBigInteger();
+            DigitSeparators();
+            BinaryLiterals();
             Console.ReadLine();
         }
 
@@ -169,7 +171,37 @@ namespace BasicDataTypes
 
             BigInteger reallyBig2 = biggy + reallyBig;
             Console.WriteLine("Value of reallyBig2 is: {0}", reallyBig2);
+            Console.WriteLine();
+        }
 
+        static void DigitSeparators()
+        {
+            Console.WriteLine("=> Use Digit Separators:");
+
+            Console.Write("Integer: ");
+            Console.WriteLine("123_456");
+
+            Console.Write("Long: ");
+            Console.WriteLine("123_456_789L");
+
+            Console.Write("Float: ");
+            Console.WriteLine("123_456.1234F");
+
+            Console.Write("Double: ");
+            Console.WriteLine("123_456.12");
+
+            Console.Write("Decimal: ");
+            Console.WriteLine("123_456.12M");
+
+            Console.WriteLine();
+        }
+
+        private static void BinaryLiterals()
+        {
+            Console.WriteLine("=> Use Binary Literals: ");
+            Console.WriteLine("Sixteen (0b0001_0000): {0}", 0b0001_0000);
+            Console.WriteLine("Thiry Two (0b0010_00000): {0}", 0b0010_0000);
+            Console.WriteLine("Sixty Four: {0}", 0b0100_0000);
         }
     }
 }

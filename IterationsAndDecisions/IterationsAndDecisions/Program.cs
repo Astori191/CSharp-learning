@@ -10,16 +10,16 @@ namespace IterationsAndDecisions
     {
         static void Main(string[] args)
         {
-            //ForLoopExample();
-            //ForEachLoopExample();
-            //LinqQueryOverInts();
-            //WhileLoopExample();
-            //DoWhileLoopExample();
-            //IfElseExample();
-            //ExecuteIfElseUsingConditionalOperator();
-            //SwitchExample();
-            //SwitchOnStringExample();
-            //SwitchOnEnumExample();
+            ForLoopExample();
+            ForEachLoopExample();
+            LinqQueryOverInts();
+            WhileLoopExample();
+            DoWhileLoopExample();
+            IfElseExample();
+            ExecuteIfElseUsingConditionalOperator();
+            SwitchExample();
+            SwitchOnStringExample();
+            SwitchOnEnumExample();
             ExecutePatternMatchingSwitch();
             ExecutePatternMatchingSwitchWithWhen();
 
